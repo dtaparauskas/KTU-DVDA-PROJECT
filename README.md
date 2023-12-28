@@ -63,3 +63,4 @@ Pasirinkus pradinius numatytuosius duomenis ir paspaudus "Evaluate" migtuką iš
 <img src="project/app/Screenshot 2023-12-28 at 23.15.29.png" width="500"/>
 Jei būtumėme pasirinke kitokius duomenis, kurie būtų tinkami paskolos gavimui, gautume tokį rezultatą:
 <img src="project/app/Screenshot 2023-12-28 at 23.16.14.png" width="500"/>
+
