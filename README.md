@@ -43,4 +43,15 @@ Projekto metu, buvo bandomos įvairios variacijos skirtingų parametrų, dėl ku
 * max_models - 200 - naudota tiktais pradiniais taikymais, vėliau pastebėta, kad logiškiau uždėti laiko limitą, negu laukti kol bus apskaičiuoti visas nurodytas modelių skaičius;
 * max_runtime_secs - 3600 sekundžių arba 1 valanda - dažnu atveju reikšmę pakėlus per daug, gaunama trūkstamos atminties klaida (angl. _out of memory_), todėl apsiribota viena valanda.
 
+### Rezultatai
+**Pateikiami rezultatai ne dėstytojo duomenims**
+* Pirmo spėjimo metu (nenurodžius GBM algoritmo ir nfolds reikšmės, nefaktorizavus kitamųjų ) - 0.703;
+* Antro spėjimo metu (naudojami tiktais pirmas milijonas duomenų GBM algoritmas, faktorizavus duomenis) - 0.782;
+* Trečio spėjimo metu (GBM algoritmas, nfolds = 0, visi 10 milijonų duomenų, faktorizuoti kintamieji) - 0.830.
+
+Dėstytojui pateiktos trys skirtingos paskutinio algoritmo iteracijos, gauti rezultatai:
+* Pirmas spėjimas - 0.8207;
+* Antras spėjimas - 0.8228;
+* Trečias spėjimas - 0.8296.
+
 ## Shiny aplikacija
