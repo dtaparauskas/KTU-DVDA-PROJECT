@@ -55,3 +55,4 @@ Dėstytojui pateiktos trys skirtingos paskutinio algoritmo iteracijos, gauti rez
 * Trečias spėjimas - 0.8296.
 
 ## Shiny aplikacija
+Naudotas geriausias modelis - [BEST_GBM_grid_1_AutoML_1_20231228_190523_model_9](https://github.com/dtaparauskas/KTU-DVDA-PROJECT/blob/main/project/4-model/BEST_GBM_grid_1_AutoML_1_20231228_190523_model_9)
