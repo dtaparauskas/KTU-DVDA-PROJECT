@@ -42,3 +42,5 @@ Projekto metu, buvo bandomos įvairios variacijos skirtingų parametrų, dėl ku
 * stopping_metric - "AUC";
 * max_models - 200 - naudota tiktais pradiniais taikymais, vėliau pastebėta, kad logiškiau uždėti laiko limitą, negu laukti kol bus apskaičiuoti visas nurodytas modelių skaičius;
 * max_runtime_secs - 3600 sekundžių arba 1 valanda - dažnu atveju reikšmę pakėlus per daug, gaunama trūkstamos atminties klaida (angl. _out of memory_), todėl apsiribota viena valanda.
+
+## Shiny aplikacija
