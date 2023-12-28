@@ -56,3 +56,10 @@ Dėstytojui pateiktos trys skirtingos paskutinio algoritmo iteracijos, gauti rez
 
 ## Shiny aplikacija
 Naudotas geriausias modelis - [BEST_GBM_grid_1_AutoML_1_20231228_190523_model_9](https://github.com/dtaparauskas/KTU-DVDA-PROJECT/blob/main/project/4-model/BEST_GBM_grid_1_AutoML_1_20231228_190523_model_9)
+Mūsų aplikacijos pradinis vaizdas atrodo taip:
+<img src="project/app/Screenshot 2023-12-28 at 23.15.06.png" width="500"/>
+Pasirinkus pradinius numatytuosius duomenis ir paspaudus "Evaluate" migtuką išmetami tokie rezultatai:
+<img src="project/app/Screenshot 2023-12-28 at 23.15.16.png" width="500"/>
+<img src="project/app/Screenshot 2023-12-28 at 23.15.29.png" width="500"/>
+Jei būtumėme pasirinke kitokius duomenis, kurie būtų tinkami paskolos gavimui, gautume tokį rezultatą:
+<img src="project/app/Screenshot 2023-12-28 at 23.16.14.png" width="500"/>
